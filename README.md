@@ -18,6 +18,8 @@ coverY: 149.4375917767988
 
 网课助手是由 [**北风岛**](https://www.5com.top) 集成开发的, 插件由其作者开发，侵权联系删除。
 
+（小提示：因为作者是河北外国语学院的，所以本校的课程平台都适配了，其他学校的自行适配）
+
 ### 使用教程 <a href="#shi-yong-jiao-cheng" id="shi-yong-jiao-cheng"></a>
 
 1，下载安装 **网课助手.exe** 后并运行。
@@ -28,19 +30,15 @@ coverY: 149.4375917767988
 
 ### 下载地址 <a href="#xia-zai-di-zhi" id="xia-zai-di-zhi"></a>
 
-1.蓝奏云：[https://wwi.lanzouy.com/b09ayp6sd](https://wwi.lanzouy.com/b09ayp6sd)   密码0810
+1.蓝奏云：[https://wwi.lanzouy.com/b09ayp6sd](https://wwi.lanzouy.com/b09ayp6sd) 密码0810
 
 2.夸克网盘：https://pan.quark.cn/s/b819be80fe60
-
-****
 
 **软件安装密码：0810**
 
 ### 常见问题 <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
 
-
-
-作者微信
+作者微信：vx100759   &#x20;
 
 有任何问题都可以来交流社区反馈和寻求帮助：[https://support.qq.com/products/311120](https://support.qq.com/products/311120)
 
